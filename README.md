@@ -11,5 +11,5 @@ Este projeto é sobre a criação de um sensor de gas que envia o status do ambi
 - 2 LEDs
 - Alguns jumpers;
 
-Tendo conseguido os itens, siga a imagem do diagrama "" dentro da pasta "imagens e diagramas".
-Baixe código
+Tendo conseguido os itens, siga a imagem do diagrama na pasta "Imagens" dentro da pasta Ira encontrar a imagem referente a contrução do prototipo.
+Se montado corretamente basta baixar o codigo e executar.
